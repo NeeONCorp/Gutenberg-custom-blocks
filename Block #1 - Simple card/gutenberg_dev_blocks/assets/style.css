@@ -1,0 +1,32 @@
+.wp-block-gutenberg-dev-blocks-simple-card {
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-position: center !important;
+    padding: 11px 5px;
+}
+
+.wp-block-gutenberg-dev-blocks-simple-card.frontend .bottom-info {
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.wp-block-gutenberg-dev-blocks-simple-card .bottom-info img {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+
+.wp-block-gutenberg-dev-blocks-simple-card .bottom-info p {
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    top: -7px;
+    margin-left: 10px;
+}
+
+.wp-block-gutenberg-dev-blocks-simple-card .bottom-info {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
